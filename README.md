@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Atul Sharma 👋
+
+🎓 First-Year B.Tech CSE Student
+
+💻 Passionate about Technology, Web Development, and App Development
+
+🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+🚀 My Goals
+- Build useful projects
+- Participate in hackathons
+- Improve problem-solving skills
+- Secure software development internships
+
+🛠️ Tech Stack
+HTML • CSS • JavaScript • Git • GitHub
+
+📌 GitHub Profile
+github.com/sparkatul
+
+✨ Learning, building, and growing every day.
 
 <!--
 **sparkatul/sparkatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
