@@ -1,6 +1,6 @@
 # Hi, I'm Atul Sharma 👋
 
-🎓 First-Year B.Tech CSE Student
+🎓 B.Tech CSE Student
 
 💻 Passionate about Technology, Web Development, and App Development
 
